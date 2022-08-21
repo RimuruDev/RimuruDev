@@ -1,20 +1,29 @@
 
+* * *
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+day.+My+name+is+Rimuru+21+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
 </p>
 
 ***
-<p>
-  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
-    <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
- </p>
+<p align="center">
 
+ <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Junior+Unity+Developer.+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
 </p>
 
 ***
+## Number of visitors to my profile:
+<p>
+  <img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
+ </p>
+
+
+* * *
 
 ### 🏆 Github Profile Trophy 🏆
 <p align="center">
@@ -23,11 +32,13 @@
 
 * * *
 
+
+
 ###  :octocat: **GitHub Stats** :octocat:
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=RimuruDev&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=material-palenight" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=RimuruDev&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=material-palenight"/></td>
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuruDev&hide=html&layout=compact&hide_border=true&hide_title=true&theme=material-palenight" /></td>
   </tr>   
 </table>
@@ -42,3 +53,6 @@
 <a href="https://telegram.me/AbyssMothGames"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
 </div> 
+
+
+* * *
