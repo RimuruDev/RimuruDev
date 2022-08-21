@@ -1,6 +1,6 @@
 
 
-### 👋 My name is Rimuru, 20 years old. I'm a junior Unity developer. I live in Russia, the city of Samara. I am currently developing a game with a team called Lawn Mower World. I work as a bartender / bar back at Gellert Bar. Looking for a job. Ready to move to another country / continent. Crazy about game development.
+### 👋 Good day. My name is Rimuru 21 years old. Nice to meet you.
 
 
 * * *
