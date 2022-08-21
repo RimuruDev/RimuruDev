@@ -27,6 +27,6 @@
 <center>
  <a href="mailto:Rimuru.dev@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
-<a href="[https://telegram.me/Abyss](https://t.me/AbyssMothGames)"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
+<a href="https://telegram.me/AbyssMothGames"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
 </div> 
