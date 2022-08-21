@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RimuruDev&theme=material-palenight)](https://git.io/streak-stats)
+
 
 ### 👋 My name is Rimuru, 20 years old. I'm a junior Unity developer. I live in Russia, the city of Samara. I am currently developing a game with a team called Lawn Mower World. I work as a bartender / bar back at Gellert Bar. Looking for a job. Ready to move to another country / continent. Crazy about game development.
 
@@ -26,3 +26,4 @@
 <p align="center">
 <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=RimuruDev&theme=dark&icon_color=5194f0&bg_color=0d1117" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RimuruDev&theme=material-palenight)](https://git.io/streak-stats)
