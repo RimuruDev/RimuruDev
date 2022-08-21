@@ -1,8 +1,20 @@
 
-### 👋 Good day. My name is Rimuru 21 years old. Nice to meet you.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+day.+My+name+is+Rimuru+21+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
+</p>
+
+***
+<p>
+  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
+    <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
+ </p>
 
 
-* * *
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Junior+Unity+Developer.+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
+</p>
+
+***
 
 ### 🏆 Github Profile Trophy 🏆
 <p align="center">
