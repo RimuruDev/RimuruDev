@@ -22,6 +22,11 @@
 </p>
 
 * * *
-<p align="center">
-<img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=RimuruDev&theme=dark&theme=material-palenight" />
-</p>
+<div align="center">
+<h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
+<center>
+ <a href="mailto:Rimuru.dev@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+</center>
+<a href="[https://telegram.me/Abyss](https://t.me/AbyssMothGames)"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
+</center>
+</div> 
