@@ -32,8 +32,6 @@
 
 * * *
 
-
-
 ###  :octocat: **GitHub Stats** :octocat:
 <p align="center">
   <table>
@@ -54,5 +52,32 @@
 </center>
 </div> 
 
+
+* * *
+
+## Support for indie developers:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=400&lines=%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F+Subscribe+to+YUJECK+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F">
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=400&lines=%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F+Subscribe+to+Mivioon+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F">
+</p>
+
+<div align="center">
+<h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
+<center>
+ <a href="https://discord.gg/Nx2sF4gF"><img width="80px" height="80"px  src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/Mivioon.jpg"></a>
+  <a href="https://discord.gg/Nx2sF4gF"><img width="80px" height="80"px  src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/photo_2022-07-15_17-29-02.jpg"></a>
+</center>
+</center>
+</div> 
+
+<div align="center">
+<center>
+ <a href="https://t.me/MivioonUnder"><img width="80px" height="80"px src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
+ <a href="https://discord.gg/Nx2sF4gF"><img width="80px" height="80"px src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/6db5001b66031bb69f79562e75d56b66.jpg"></a>
+</center>
+</center>
+</div> 
 
 * * *
