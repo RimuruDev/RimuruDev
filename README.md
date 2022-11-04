@@ -52,6 +52,14 @@
 </center>
 </div> 
 
+<a href="https://telegram.me/@AbyssMothGames">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>
+  
+ </a>
+  <a href="https://github.com/RimuruDev">
+    <img src="https://img.shields.io/github/followers/RimuruDev?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
 
 * * *
 
