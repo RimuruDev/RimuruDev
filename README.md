@@ -52,7 +52,7 @@
 </center>
 </div> 
 
-<a href="https://telegram.me/@AbyssMothGames">
+<a href="https://telegram.me/AbyssMothGames">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>
   
