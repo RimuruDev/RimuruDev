@@ -1,4 +1,3 @@
-
 * * *
 
 <p align="center">
@@ -6,6 +5,8 @@
 </p>
 
 ***
+
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=RimuruDev" alt="RimuruDev" /> </p>
 <p align="center">
 
  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
