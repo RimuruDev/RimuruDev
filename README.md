@@ -87,7 +87,7 @@
 <div align="center">
 <center>
  <a href="https://t.me/MivioonUnder"><img width="80px" height="80"px src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
- <a href="https://discord.gg/Nx2sF4gF"><img width="80px" height="80"px src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/Discord_Icon.jpg"></a>
+ <a href="https://discord.gg/qhWaP7BW2A"><img width="80px" height="80"px src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/Discord_Icon.jpg"></a>
 </center>
 </center>
 </div> 
