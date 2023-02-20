@@ -65,32 +65,3 @@
   <a href="https://github.com/RimuruDev">
     <img src="https://img.shields.io/github/followers/RimuruDev?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
-
-* * *
-
-## Support for indie developers:
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=400&lines=%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F+Subscribe+to+YUJECK+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=400&lines=%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F+Subscribe+to+Mivioon+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F">
-</p>
-
-<div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
-<center>
- <a href="https://discord.gg/Nx2sF4gF"><img width="80px" height="80"px  src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/Mivioon_Icon.jpg"></a>
-  <a href="https://discord.gg/Nx2sF4gF"><img width="80px" height="80"px  src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/YUJECK_Icon.jpg"></a>
-</center>
-</center>
-</div> 
-
-<div align="center">
-<center>
- <a href="https://t.me/MivioonUnder"><img width="80px" height="80"px src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
- <a href="https://discord.gg/qhWaP7BW2A"><img width="80px" height="80"px src="https://github.com/RimuruDev/RimuruDev/blob/main/Assets/Indie/Discord_Icon.jpg"></a>
-</center>
-</center>
-</div> 
-
-* * *
