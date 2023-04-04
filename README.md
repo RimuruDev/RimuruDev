@@ -1,7 +1,7 @@
 * * *
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+day.+My+name+is+Rimuru+21+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+afternoon.+My+name+is+Rimuru,+22+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
 </p>
 
 ***
@@ -9,7 +9,9 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=RimuruDev" alt="RimuruDev" /> </p>
 <p align="center">
 
+<!--
  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
+-->
 
 </p>
 
@@ -18,7 +20,7 @@
 -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Junior+Unity+Developer.+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Unity+Developer+[Zenject,+UniTask].+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
 </p>
 
 ***
