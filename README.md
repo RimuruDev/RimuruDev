@@ -1,5 +1,4 @@
 * * *
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+afternoon.+My+name+is+Rimuru,+22+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
 </p>
