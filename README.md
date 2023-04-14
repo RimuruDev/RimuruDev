@@ -8,15 +8,8 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=RimuruDev" alt="RimuruDev" /> </p>
 <p align="center">
 
-<!--
- <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
--->
-
 </p>
 
-<!--
-<a href="https://github.com/RimuruDev"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RimuruDev&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
--->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Unity+Developer+[Zenject,+UniTask].+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
