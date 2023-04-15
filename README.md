@@ -30,7 +30,7 @@
 </p>
 
 * * *
-
+<!--
 ###  :octocat: **GitHub Stats** :octocat:
 <p align="center">
   <table>
@@ -40,7 +40,7 @@
   </tr>   
 </table>
 </p>
-
+-->
 * * *
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
