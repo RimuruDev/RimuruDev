@@ -28,9 +28,9 @@
 <p align="center">
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=RimuruDev&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 </p>
-
-* * *
 <!--
+* * *
+
 ###  :octocat: **GitHub Stats** :octocat:
 <p align="center">
   <table>
@@ -41,7 +41,9 @@
 </table>
 </p>
 -->
+
 * * *
+
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
 <center>
