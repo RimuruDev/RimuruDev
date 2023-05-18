@@ -24,6 +24,10 @@
 
 * * *
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RimuruDev&theme=apprentice&hide_border=true)](https://git.io/streak-stats)
+
+* * *
+
 ### 🏆 Github Profile Trophy 🏆
 <p align="center">
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=RimuruDev&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
