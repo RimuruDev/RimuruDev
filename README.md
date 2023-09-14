@@ -10,12 +10,12 @@
 
 </p>
 
-
+<!--
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Unity+Developer+[Zenject,+UniTask].+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
 </p>
 
-***
+***-->
 ## Number of visitors to my profile:
 <p>
   <img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
