@@ -48,10 +48,12 @@
 
 * * *
 
+<!--https://mail.google.com/mail/?view=cm&fs=1&to=rimuru.dev@gmail.com-->
+
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
 <center>
- <a href="mailto:Rimuru.dev@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rimuru.dev@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
 <a href="https://telegram.me/AbyssMothGames"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
