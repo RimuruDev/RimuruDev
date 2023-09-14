@@ -1,11 +1,23 @@
 * * *
+<!--
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+afternoon.+My+name+is+Rimuru,+22+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
+</p>
+-->
+<p align="center">
+<h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over two years of experience.</h3>
+
+<h3>During this time, I have developed a dozen HTML5 and mobile games and successfully published them on various platforms including Yandex Games and Google Play.</h3>
+
+<h3>My work has involved team interaction with artists and 3D modelers, which has allowed me to gain valuable experience in collaborative game development.</h3>
+<h3>Proficient in reading and analyzing other people's code. My passion for games and development never wanes.</h3>
+
+<h3>Open to new opportunities.</h3>
 </p>
 
 ***
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=RimuruDev" alt="RimuruDev" /> </p>
+<!--<p align="middle"> <img src="https://komarev.com/ghpvc/?username=RimuruDev" alt="RimuruDev" /> </p>-->
 <p align="center">
 
 </p>
@@ -16,8 +28,9 @@
 </p>
 
 ***-->
-## Number of visitors to my profile:
+<!--## Profile visitors:-->
 <p>
+  <h3>Profile visitors:</h3>
   <img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
  </p>
 
