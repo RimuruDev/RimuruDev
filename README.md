@@ -16,13 +16,6 @@
 
 </p>
 
-<!--
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=700&lines=I+am+a+Unity+Developer+[Zenject,+UniTask].+Looking+for+a+job.%E2%9D%A4%EF%B8%8F">
-</p>
-
-***-->
-<!--## Profile visitors:-->
 <p>
   <h3>Profile visitors:</h3>
   <img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
@@ -36,13 +29,15 @@
 * * *
 
 ### 🏆 Github Profile Trophy 🏆
+
 <p align="center">
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=RimuruDev&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 </p>
-<!--
+
 * * *
 
 ###  :octocat: **GitHub Stats** :octocat:
+
 <p align="center">
   <table>
   <tr>
@@ -51,11 +46,8 @@
   </tr>   
 </table>
 </p>
--->
 
 * * *
-
-<!--https://mail.google.com/mail/?view=cm&fs=1&to=rimuru.dev@gmail.com-->
 
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
