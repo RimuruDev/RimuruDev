@@ -1,9 +1,4 @@
 * * *
-<!--
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a282f5&width=1000&lines=👋+Good+afternoon.+My+name+is+Rimuru,+22+years+old.+Nice+to+meet+you.%E2%9D%A4%EF%B8%8F">
-</p>
--->
 <p align="center">
 <h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over two years of experience.</h3>
 
@@ -17,7 +12,6 @@
 
 ***
 
-<!--<p align="middle"> <img src="https://komarev.com/ghpvc/?username=RimuruDev" alt="RimuruDev" /> </p>-->
 <p align="center">
 
 </p>
