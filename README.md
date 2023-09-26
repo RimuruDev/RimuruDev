@@ -12,19 +12,16 @@
 
 ***
 
-<p align="center">
-
-</p>
-
+<p align="center"></p>
 <p>
   <h3>Profile visitors:</h3>
   <img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
- </p>
+</p>
 
 
 * * *
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RimuruDev&theme=apprentice&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RimuruDev&theme=blood-dark)](https://git.io/streak-stats)
 
 * * *
 
