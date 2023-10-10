@@ -8,7 +8,7 @@
 <h3>My work has involved team interaction with artists and 3D modelers, which has allowed me to gain valuable experience in collaborative game development.</h3>
 <h3>Proficient in reading and analyzing other people's code. My passion for games and development never wanes.</h3>
 
-<h3>Open to new opportunities.</h3>
+<!--<h3>Open to new opportunities.</h3>-->
 </p>
 
 ***
