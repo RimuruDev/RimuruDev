@@ -20,6 +20,13 @@
   <img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ninpl/ninpl/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ninpl/ninpl/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/ninpl/ninpl/raw/output/github-snake.svg">
+</picture>
+
+
 
 * * *
 
