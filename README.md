@@ -1,5 +1,7 @@
 ![BannerEn1](https://github.com/RimuruDev/RimuruDev/assets/85500556/774fa146-8060-4cef-8920-36070512853b)
--> https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay&hl=en
+Telegram -> https://t.me/MurderDronesEndlessWay 
+
+Game -> https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay&hl=en
 
 
 * * *
