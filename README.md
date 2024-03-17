@@ -1,7 +1,12 @@
 ![BannerEn1](https://github.com/RimuruDev/RimuruDev/assets/85500556/774fa146-8060-4cef-8920-36070512853b)
 Telegram -> https://t.me/MurderDronesEndlessWay 
 
-Game -> https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay&hl=en
+GooglePlay: https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay
+
+RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
+
+YandexGame (Old Version): https://yandex.com/games/app/232955?lang=en
+
 
 
 * * *
