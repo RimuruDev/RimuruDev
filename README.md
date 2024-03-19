@@ -5,7 +5,7 @@ GooglePlay: https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersD
 
 RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
 
-YandexGame (Old Version): https://yandex.com/games/app/232955?lang=en
+YandexGame: https://yandex.com/games/app/232955?lang=en
 
 
 
