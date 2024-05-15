@@ -13,7 +13,7 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 * * *
 <p align="center">
   
-<h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over two years of experience.</h3>
+<h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over three years of experience.</h3>
 
 <h3>During this time, I have developed a dozen HTML5 and mobile games and successfully published them on various platforms including Yandex Games and Google Play.</h3>
 
