@@ -67,6 +67,11 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 * * *
 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RimuruDev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RimuruDev&theme=github-compact"/></a>
+  
+* * *
+
+
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
 <center>
