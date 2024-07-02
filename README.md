@@ -22,7 +22,6 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 
 </p>
-<!--<h3>Open to new opportunities.</h3>-->
 
 ***
 
@@ -41,11 +40,6 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 
 * * *
-<!--
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=RimuruDev&theme=blood-dark)](https://git.io/streak-stats)
-</p>
--->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruDev&theme=blood-dark" alt="mystreak"/>
@@ -86,5 +80,4 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 </center>
 <a href="https://telegram.me/AbyssMothGames"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
-  <!--https://github.com/DenverCoder1-->
 </div> 
