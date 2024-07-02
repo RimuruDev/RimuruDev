@@ -41,8 +41,15 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 
 * * *
+<!--
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RimuruDev&theme=blood-dark)](https://git.io/streak-stats)
+</p>
+-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RimuruDev&theme=blood-dark)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruDev&theme=blood-dark" alt="mystreak"/>
+</p>
 
 * * *
 
