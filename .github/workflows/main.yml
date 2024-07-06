@@ -3,7 +3,7 @@ name: Progress Bar CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'  # 6:00 AM SAMT
 
 jobs:
   build:
