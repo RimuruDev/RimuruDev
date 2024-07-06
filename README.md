@@ -8,9 +8,14 @@ RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
 
 YandexGame: https://yandex.com/games/app/232955?lang=en
 
-
-
 * * *
+
+### Hi there 👋
+⏳ Time until vacation { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.00 %
+---
+⏰ Updated on Sat, 06 Jul 2024 12:00:00 GMT
+---
+
 <p align="center">
   
 <h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over three years of experience.</h3>
@@ -19,7 +24,6 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 <h3>My work has involved team interaction with artists and 3D modelers, which has allowed me to gain valuable experience in collaborative game development.</h3>
 <h3>Proficient in reading and analyzing other people's code. My passion for games and development never wanes.</h3>
-
 
 </p>
 
@@ -37,15 +41,13 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
   <img alt="snk" src="https://github.com/ninpl/ninpl/raw/output/github-snake.svg">
 </picture>
 
-
-
-* * *
+***
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruDev&theme=blood-dark" alt="mystreak"/>
 </p>
 
-* * *
+***
 
 ### 🏆 Github Profile Trophy 🏆
 
@@ -53,7 +55,7 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=RimuruDev&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 </p>
 
-* * *
+***
 
 ###  :octocat: **GitHub Stats** :octocat:
 
@@ -66,12 +68,11 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 </table>
 </p>
 
-* * *
+***
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RimuruDev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RimuruDev&theme=github-compact"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RimuruDev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RimuruDev&theme=github-compact"/></a>
   
-* * *
-
+***
 
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" height="33px" /></h3>
@@ -80,4 +81,4 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 </center>
 <a href="https://telegram.me/AbyssMothGames"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
-</div> 
+</div>
