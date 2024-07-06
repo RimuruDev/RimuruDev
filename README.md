@@ -10,7 +10,6 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 * * *
 
-### Hi there 👋
 ⏳ Time until vacation { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.00 %
 ---
 ⏰ Updated on Sat, 06 Jul 2024 12:00:00 GMT
