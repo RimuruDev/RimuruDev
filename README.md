@@ -8,13 +8,11 @@ RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
 
 YandexGame: https://yandex.com/games/app/232955?lang=en
 
-![photo_2024-08-23_02-09-06](https://github.com/user-attachments/assets/640a5314-4e4f-4fca-b499-755402845646)
-
 * * *
 
-⏳ Time until vacation { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.24 %
+⏳ Time until vacation { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.51 %
 ---
-⏰ Updated on Fri, 23 Aug 2024 02:32:18 GMT
+⏰ Updated on Sat, 24 Aug 2024 02:31:27 GMT
 
 
 <p align="center">
