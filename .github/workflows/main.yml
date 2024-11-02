@@ -3,7 +3,7 @@ name: Progress Bar CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'  # 6:00 AM SAMT
+    - cron: '0 0,6,12,18 * * *'
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
         node index.js > README.md
     - name: Commit change & Push
       run: |
-        git config user.name 'github-actions[bot]'
-        git config user.email 'RimuruDev+github-actions[bot]@users.noreply.github.com'
+        git config user.name 'RimuruDev'
+        git config user.email 'rimuru.dev@gmail.com'
         git commit -am "One step closer to vacation!!!"
         git push
