@@ -20,8 +20,11 @@ jobs:
       run: |
         node index.js > README.md
     - name: Commit change & Push
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
         git config user.name 'RimuruDev'
         git config user.email 'rimuru.dev@gmail.com'
-        git commit -am "One step closer to vacation!!!"
-        git push
+        git add README.md
+        git commit -m "One step closer to vacation!!!"
+        git push https://$GITHUB_ACTOR:${{ secrets.PAT }}@github.com/$GITHUB_REPOSITORY.git HEAD:main
