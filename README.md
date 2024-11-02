@@ -4,10 +4,6 @@
 
 GooglePlay: https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay
 
-RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
-
-YandexGame: https://yandex.com/games/app/232955?lang=en
-
 ![photo_2024-08-23_02-09-06](https://github.com/user-attachments/assets/640a5314-4e4f-4fca-b499-755402845646)
 
 * * *
