@@ -1,12 +1,13 @@
-![MurderDronesEndlessWay](https://github.com/user-attachments/assets/ce82e100-ba3f-494c-8b44-82a055715377)
+<!--![MurderDronesEndlessWay](https://github.com/user-attachments/assets/ce82e100-ba3f-494c-8b44-82a055715377)-->
+![photo_2025-01-05_00-31-00](https://github.com/user-attachments/assets/0f42ced8-0b60-4e71-93ea-d5aa313e77fe)
 
 <!-- Telegram -> https://t.me/MurderDronesEndlessWay -->
 
 GooglePlay: https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay
 
-RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
+(Old version) RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
 
-YandexGame: https://yandex.com/games/app/232955?lang=en
+(Old version) YandexGame: https://yandex.com/games/app/232955?lang=en
 
 ![photo_2024-08-23_02-09-06](https://github.com/user-attachments/assets/640a5314-4e4f-4fca-b499-755402845646)
 
