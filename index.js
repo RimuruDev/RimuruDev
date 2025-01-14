@@ -1,37 +1,36 @@
-const thisYear = new Date().getFullYear()
-const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
-const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
-const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
-const progressBarOfThisYear = generateProgressBar()
+const thisYear = new Date().getFullYear();
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime();
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime();
+const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear);
+const progressBarOfThisYear = generateProgressBar();
 
 function generateProgressBar() {
-    const progressBarCapacity = 30
-    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBarCapacity = 30;
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity);
     const progressBar =
       '█'.repeat(passedProgressBarIndex) +
-      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return `{ ${progressBar} }`
+      '▁'.repeat(progressBarCapacity - passedProgressBarIndex);
+    return `{ ${progressBar} }`;
 }
 
 const readme = `\
-<!--![MurderDronesEndlessWay](https://github.com/user-attachments/assets/ce82e100-ba3f-494c-8b44-82a055715377)-->
-![photo_2025-01-05_00-31-00](https://github.com/user-attachments/assets/0f42ced8-0b60-4e71-93ea-d5aa313e77fe)
+![MurderDronesEndlessWay](https://github.com/user-attachments/assets/ce82e100-ba3f-494c-8b44-82a055715377)
 
 <!-- Telegram -> https://t.me/MurderDronesEndlessWay -->
 
 GooglePlay: https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersDronesEndlessWay
 
-(Old version) RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
+RuStore: https://apps.rustore.ru/app/com.AbyssMoth.MurdersDronesEndlessWay
 
-(Old version) YandexGame: https://yandex.com/games/app/232955?lang=en
+YandexGame: https://yandex.com/games/app/232955?lang=en
 
 ![photo_2024-08-23_02-09-06](https://github.com/user-attachments/assets/640a5314-4e4f-4fca-b499-755402845646)
 
 * * *
 
-⏳ Time until vacation { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.22 %
+⏳ Time until vacation ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
-⏰ Updated on Sun, 12 Jan 2025 18:13:38 GMT
+⏰ Updated on ${new Date().toUTCString()}
 
 
 <p align="center">
@@ -101,5 +100,6 @@ GooglePlay: https://play.google.com/store/apps/details?id=com.AbyssMoth.MurdersD
 </center>
 </div>
 \
-`
-console.log(readme)
+`;
+
+console.log(readme);
