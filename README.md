@@ -12,14 +12,14 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 * * *
 
-⏳ Time until vacation { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.24 %
+⏳ Time until vacation { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.31 %
 ---
-⏰ Updated on Thu, 19 Mar 2026 12:42:52 GMT
+⏰ Updated on Thu, 19 Mar 2026 18:44:12 GMT
 
 
 <p align="center">
   
-<h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over three years of experience.</h3>
+<h3>👋 Hi, my name is Rimuru Tempest and I'm a Unity developer with over five years of experience.</h3>
 
 <h3>During this time, I have developed a dozen HTML5 and mobile games and successfully published them on various platforms including Yandex Games and Google Play.</h3>
 
