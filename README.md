@@ -12,9 +12,9 @@ YandexGame: https://yandex.com/games/app/232955?lang=en
 
 * * *
 
-⏳ Time until vacation { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.20 %
+⏳ Time until vacation { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.26 %
 ---
-⏰ Updated on Thu, 17 Sep 2026 20:47:55 GMT
+⏰ Updated on Fri, 18 Sep 2026 02:28:05 GMT
 
 
 <p align="center">
